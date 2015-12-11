@@ -1,4 +1,4 @@
-package com.thinkinginjava.demo.one;
+package com.thinkinginjava.demo.two;
 
 public class Demo03 {
 	public static void main(String[] args) {
