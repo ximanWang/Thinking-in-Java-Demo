@@ -1,6 +1,6 @@
-package com.thinkinginjava.demo.two;
+package com.thinkinginjava.demo;
 
-public class Demo03 {
+public class Demo2_03 {
 	public static void main(String[] args) {
 		class ATypeName {
 			int i;
